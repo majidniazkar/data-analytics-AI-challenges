@@ -15,7 +15,7 @@ version: 1.0.0
 date-released: 2026-09-22
 license: MIT
 repository-code: "https://github.com/majidniazkar/data-analytics-AI-challenges"
-Concept DOI from Zenodo - resolves to the newest version. Uncomment once minted.
+# Concept DOI from Zenodo - resolves to the newest version.
 doi: "10.5281/zenodo.22895273"
 keywords:
   - data analytics
