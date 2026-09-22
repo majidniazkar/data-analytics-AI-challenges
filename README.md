@@ -4,7 +4,7 @@ Ten self-contained challenges in data analytics and artificial intelligence. Eac
 realistic brief with a real, messy dataset - work them in any language you like.
 
 [![Validate](https://github.com/majidniazkar/data-analytics-AI-challenges/actions/workflows/ci.yml/badge.svg)](https://github.com/majidniazkar/data-analytics-AI-challenges/actions/workflows/ci.yml)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.0000000.svg)](https://doi.org/[10.5281/zenodo.0000000](https://doi.org/10.5281/zenodo.22895273))
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22895273.svg)](https://doi.org/10.5281/zenodo.22895273)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
