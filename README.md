@@ -3,7 +3,8 @@
 Ten self-contained challenges in data analytics and artificial intelligence. Each one is a
 realistic brief with a real, messy dataset - work them in any language you like.
 
-[![Validate](https://github.com/<your-github-username>/data-analytics-ai-challenges/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-github-username>/data-analytics-ai-challenges/actions/workflows/ci.yml)
+[![Validate](https://github.com/majidniazkar/data-analytics-AI-challenges/actions/workflows/ci.yml/badge.svg)](https://github.com/majidniazkar/data-analytics-AI-challenges/actions/workflows/ci.yml)
+[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ## What this is
